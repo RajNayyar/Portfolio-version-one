@@ -1,0 +1,94 @@
+.raj
+{
+  height: 200px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: auto;
+  padding-top: 10px;
+
+}
+.para
+{
+  margin-top: 0.5em;
+  border: 1px inset
+}
+
+#protext1
+{
+  margin-top: 0.5em;
+  font-weight: lighter;
+  text-align: center;
+  margin-left: auto;
+   margin-right: auto;
+}
+
+#protext2
+{
+  font-weight: 400;
+  text-align: center;
+     margin-left: auto;
+    margin-right: auto;
+}
+
+.projecttext3
+{
+  font-weight: 200;
+  font-size: 20px;
+}
+.projectimage
+{
+  margin-top: 0.5em;
+  width: 100%;
+}
+
+.projectimage1
+{
+  width: 100%;
+}
+
+.fa {
+  padding: 20px;
+  width: auto;
+  text-align: center;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #FFFFFF;
+  color: black ;
+}
+
+.fa-twitter {
+  background: #FFFFFF;
+  color: black;
+}
+
+
+.fa-linkedin {
+  background: #FFFFFF;
+  color: black;
+}
+
+
+.fa-instagram {
+  background: #FFFFFF;
+  color: black;
+}
+.fa-github{
+    background: #FFFFFF;
+  color: black;
+}
+.social
+{
+  margin-bottom: 10px;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
