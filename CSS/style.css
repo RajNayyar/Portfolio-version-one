@@ -6,12 +6,20 @@
   margin-right: auto;
   padding-left: auto;
   padding-top: 10px;
-
 }
 .para
 {
   margin-top: 0.5em;
   border: 1px inset
+}
+
+#download
+{
+ margin-top: 0.5em;
+  text-align: center;
+  margin-left: auto;
+   margin-right: auto;
+   
 }
 
 #protext1
@@ -51,6 +59,7 @@
   padding: 20px;
   width: auto;
   text-align: center;
+  font-size: 50px;
 }
 
 .fa:hover {
